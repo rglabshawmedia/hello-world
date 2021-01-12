@@ -1,2 +1,3 @@
 # hello-world
-Just another repository.
+
+This is a test! Learning all about Git.
